@@ -16,6 +16,3 @@ static const int imgoffsetx = 256;
 static const int imgoffsety = 256;
 static const int showimgonlyatstart = 1;
 static const int failonclear = 1;
-
-/* time in seconds before the monitor shuts down */
-static const int monitortime = 5;
